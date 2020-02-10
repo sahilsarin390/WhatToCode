@@ -1,0 +1,10 @@
+Hello Guys!
+So you just visited my first ever webpage.
+So i designed this using HTML,CSS and JavaScript which i learnt completely from scratch on Progate.com.
+Progate is a brilliant site for those who really want to learn something.
+
+So the idea behind this webpage is that i have compiled a list of all the most trending Programming languages at this age. And on just one click you can learn absolutely everything about that chosen language.
+I hope this webpage really helped you. 
+I tried to keep things as simple and minimalistic as possible.
+Hope This Helped!!
+Thanks Alot!!!!  
